@@ -38,3 +38,5 @@ Breadboard:
 
 Breadboard
 ![Ultrasonic](wiring/ultrasonic.png)
+
+- (http://blog.nortal.com/cloud-controlled-work-desks-using-arduinos-node-js-polymer/)
