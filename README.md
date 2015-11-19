@@ -13,6 +13,10 @@
 - Wheels that fixes the CR Servos
 - LED
 
+## Rules
+- Not taller than 30cm and not longer than 20cm
+
+More info on [SimpleBot](https://github.com/nodebotsau/simplebot/)
 
 ## Installing Firmata 
 - Download and install Arduino IDE.
